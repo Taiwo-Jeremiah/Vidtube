@@ -115,6 +115,7 @@ nav ul {
     flex-wrap: wrap;
     column-gap: .75rem;
     font-size: 15px;
+    color: #5a5a5a;
     margin-bottom: 18px;
     cursor: pointer;
 }
